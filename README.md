@@ -6,7 +6,7 @@
 
 ## praktikum2
 
-![praktikum2](images/gif2-new.gif.gif)
+![praktikum2](images/gif2-new.gif)
 
 ## praktikum3
 
